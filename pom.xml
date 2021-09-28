@@ -22,7 +22,7 @@
 
     <dependencies>
 
-<!--        Annotation does not modify dependencies-->
+<!--       test Annotation does not modify dependencies-->
 
 <!--        <dependency>-->
 <!--            <groupId>org.apache.flink</groupId>-->
